@@ -4,3 +4,6 @@
  
  A slideshow from Dr. D.G. Goodwin provides an excellent walkthrough on installing Cantera 1.7.0 on Windows from source:
  76860345-cantera17-vc7.pdf
+
+Cantera 1.7.0 source is hosted here only for convenience, official files for Cantera 1.7.0 are hosted at sourceforge:
+https://sourceforge.net/projects/cantera/files/cantera/1.7/
